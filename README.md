@@ -17,6 +17,8 @@ Rodrigo Roman.
 Sergio Santoyo.
 
 
+
+
 En este github, se encontrarán todos los códigos que hemos creado hasta el momento los alumnos durante la clase. Los métodos que se incluirán son:
 
 Ecuación Eliptica.
@@ -24,6 +26,8 @@ Ecuación Eliptica.
 Ecuación Parabólica.
 
 Ecuación Hiperbólica.
+
+
 
 
 Gracias
